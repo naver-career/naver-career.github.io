@@ -14,7 +14,7 @@ description: 일부 직무 안내는 포함되어 있지 않을 수 있으니 �
 | 블로그, 지식iN/eXpert (Apollo CIC)                                                          |                                                                                                                       |
 | [BAND & CAFE (Group& CIC)](../service/band/ml-data-engineering.md)                     |                                                                                                                       |
 | [CLOVA & AI Lab](../service/clova/naver-ai-lab.md)                                     |                                                                                                                       |
-| [MUSIC](../service/music/)                                                             | <ul><li><a href="../service/music/music-ai.md">Music AI &#x26; Data Tech</a></li></ul>                                |
+| [MUSIC](../service/music/)                                                             | <ul><li><a href="../service/music/music-ai/">Music AI &#x26; Data Tech</a></li></ul>                                |
 | ETECH                                                                                  |                                                                                                                       |
 | [Papago](../service/papago/ai-ml.md)                                                   |                                                                                                                       |
 | PLACE (Glace CIC)                                                                      |                                                                                                                       |
