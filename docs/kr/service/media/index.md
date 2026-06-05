@@ -107,5 +107,5 @@ description: 미디어Tech
 
 ## 관련 직무보기 
 
-* [Back-end](https://naver-career.gitbook.io/kr/service/media/back-end)
-* [ML/Data engineering](https://naver-career.gitbook.io/kr/service/media/ml-data-engineering)
+* [Back-end](https://naver-career.github.io/kr/service/media/back-end)
+* [ML/Data engineering](https://naver-career.github.io/kr/service/media/ml-data-engineering)

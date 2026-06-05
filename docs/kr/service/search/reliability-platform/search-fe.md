@@ -112,7 +112,7 @@ description: 검색의 Front-end을 담당하는 Search FE의 조직 소개입�
 
 #### 입사하게 되면 담당할 업무입니다.
 
-* [지식베이스](https://naver-career.gitbook.io/kr/service/search/knowledge-base) 데이터를 활용한 다양한 주제의 Front-end 개발을 담당합니다.
+* [지식베이스](https://naver-career.github.io/kr/service/search/knowledge-base) 데이터를 활용한 다양한 주제의 Front-end 개발을 담당합니다.
 * Node.js+React 기반의 SSR+CSR(Server Driven UI System) 서버를 개발/운영합니다.
 * 생산성 향상을 위한 공통 UI/UX 모듈을 개발/운영합니다.
 

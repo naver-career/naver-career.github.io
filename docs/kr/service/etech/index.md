@@ -84,12 +84,12 @@ FE / BE / 앱 / SDK 개발 기술과 함께 멀티미디어의 핵심 기술을 
 엔터 비즈니스의 글로벌 협업을 통한 풀스택 & 멀티미디어 전문가로 성장할 수 있도록,<br>
 ETECH 가 함께 하겠습니다.&#x20;
 
-* [Front-end](https://naver-career.gitbook.io/kr/service/etech/front-end)&#x20;
-* [Back-end](https://naver-career.gitbook.io/kr/service/etech/back-end)
-* [Android](https://naver-career.gitbook.io/kr/service/etech/android)
-* [iOS](https://naver-career.gitbook.io/kr/service/etech/ios)
-* [Data](https://naver-career.gitbook.io/kr/service/etech/data)
-* [Graphics](https://naver-career.gitbook.io/kr/service/etech/graphics)
+* [Front-end](https://naver-career.github.io/kr/service/etech/front-end)&#x20;
+* [Back-end](https://naver-career.github.io/kr/service/etech/back-end)
+* [Android](https://naver-career.github.io/kr/service/etech/android)
+* [iOS](https://naver-career.github.io/kr/service/etech/ios)
+* [Data](https://naver-career.github.io/kr/service/etech/data)
+* [Graphics](https://naver-career.github.io/kr/service/etech/graphics)
 
 ## 궁금하신 점, 성실히 답변하겠습니다.    
 

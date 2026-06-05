@@ -10,8 +10,8 @@
 
 |   플랫폼   |                                        App Store                                       |                                        Job Description                                       |
 | :-----: | :------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
-| Android |     [구글 앱스토어](https://play.google.com/store/apps/details?id=com.nhn.android.search)    | [Android Job Description](https://naver-career.gitbook.io/kr/service/tech/undefined/android) |
-|   iOS   | [애플 앱스토어](https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-naver/id393499958) |     [iOS Job Descriotion](https://naver-career.gitbook.io/kr/service/tech/undefined/ios)     |
+| Android |     [구글 앱스토어](https://play.google.com/store/apps/details?id=com.nhn.android.search)    | [Android Job Description](https://naver-career.github.io/kr/service/tech/undefined/android) |
+|   iOS   | [애플 앱스토어](https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-naver/id393499958) |     [iOS Job Descriotion](https://naver-career.github.io/kr/service/tech/undefined/ios)     |
 
 
 

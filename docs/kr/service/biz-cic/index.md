@@ -29,6 +29,6 @@
 * [Back-end](back-end.md)
 * [AI/ML](ai-ml.md)
 * [iOS](ios.md)
-* [Android](https://naver-career.gitbook.io/kr/service/biz-cic/android)
+* [Android](https://naver-career.github.io/kr/service/biz-cic/android)
 * [Data](data.md)
 

@@ -64,8 +64,8 @@ eXpert 서비스에서 사용하는 음성/영상/채팅 상담툴 및 VOD영상
 
 ### 관련 직무보기
 
-* [iOS](https://naver-career.gitbook.io/kr/service/apollo/ios)
-* [Android](https://naver-career.gitbook.io/kr/service/apollo/android)
-* [Front-end](https://naver-career.gitbook.io/kr/service/apollo/frontend)
-* [Back-end](https://naver-career.gitbook.io/kr/service/apollo/backend)
-* [Data](https://naver-career.gitbook.io/kr/service/apollo/data-tech)
+* [iOS](https://naver-career.github.io/kr/service/apollo/ios)
+* [Android](https://naver-career.github.io/kr/service/apollo/android)
+* [Front-end](https://naver-career.github.io/kr/service/apollo/frontend)
+* [Back-end](https://naver-career.github.io/kr/service/apollo/backend)
+* [Data](https://naver-career.github.io/kr/service/apollo/data-tech)

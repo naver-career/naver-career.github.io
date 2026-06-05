@@ -76,5 +76,5 @@ Ai 추천 기술과 데이터 분석을 통 사용자가 입력한 검색어에 
 * [스마트스토어](smartstore.md)
 * [버티컬쇼핑서비스](vertical-shopping-service.md)
 * [쇼핑검색서비스](shopping-aggregation-platform.md)
-* [라이브커머스](https://naver-career.gitbook.io/kr/service/shopping/livecommerce)&#x20;
+* [라이브커머스](https://naver-career.github.io/kr/service/shopping/livecommerce)&#x20;
 

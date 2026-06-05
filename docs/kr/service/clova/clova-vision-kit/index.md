@@ -15,12 +15,12 @@
 
 ### 지원분야&#x20;
 
-* [Face AI](https://naver-career.gitbook.io/kr/service/clova/clova-vision-kit/face-ai)
-* [Video AI](https://naver-career.gitbook.io/kr/service/clova/clova-vision-kit/video-ai)
-* [Avatar AI](https://naver-career.gitbook.io/kr/service/clova/clova-vision-kit/avatar-ai)
-* [Edge AI](https://naver-career.gitbook.io/kr/service/clova/clova-vision-kit/edge-ai)
-* [Edge AI Solution](https://naver-career.gitbook.io/kr/service/clova/clova-vision-kit/edge-solution-ai)
-* [Data Engineer](https://naver-career.gitbook.io/kr/service/clova/clova-vision-kit/data-engineer)
+* [Face AI](https://naver-career.github.io/kr/service/clova/clova-vision-kit/face-ai)
+* [Video AI](https://naver-career.github.io/kr/service/clova/clova-vision-kit/video-ai)
+* [Avatar AI](https://naver-career.github.io/kr/service/clova/clova-vision-kit/avatar-ai)
+* [Edge AI](https://naver-career.github.io/kr/service/clova/clova-vision-kit/edge-ai)
+* [Edge AI Solution](https://naver-career.github.io/kr/service/clova/clova-vision-kit/edge-solution-ai)
+* [Data Engineer](https://naver-career.github.io/kr/service/clova/clova-vision-kit/data-engineer)
 
 
 

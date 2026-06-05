@@ -103,4 +103,4 @@ description: >-
   * **Research intern:**&#x20;
     * Algorithm coding test > Paper implementation or tech talk > Job interview
 
-[Full publication list](https://naver-career.gitbook.io/en/publications/all)&#x20;
+[Full publication list](https://naver-career.github.io/en/publications/all)&#x20;

@@ -46,22 +46,22 @@ description: 2023년 CLOVA와 NAVER AI LAB이 NAVER CLOUD와 함께 새롭게 �
 ### 관련 직무보기
 
 * AI / ML 모델 연구개발
-  * [NAVER AI Lab (중장기 선행 연구)  ](https://naver-career.gitbook.io/kr/service/clova/naver-ai-lab)&#x20;
-  * [음성인식 (Speech Recognition)](https://naver-career.gitbook.io/kr/service/clova/speech-recognition)
-  * [음성합성 및 Avatar 생성 기술 연구 ](https://naver-career.gitbook.io/kr/service/clova/ai-ml)
-  * [클로바 Vision/NLP 연구개발](https://naver-career.gitbook.io/kr/service/clova/vision-nlp)
-  * [CLOVA Vision Kit](https://naver-career.gitbook.io/kr/service/clova/clova-vision-kit)
-  * [초대규모 멀티모달&시계열&쇼핑모델링 기술 연구개발](https://naver-career.gitbook.io/kr/service/clova/and-and)
-  * [CLOVA 언어 모델 연구 및 대화시스템 개발 ](https://naver-career.gitbook.io/kr/service/clova/conversation)
+  * [NAVER AI Lab (중장기 선행 연구)  ](https://naver-career.github.io/kr/service/clova/naver-ai-lab)&#x20;
+  * [음성인식 (Speech Recognition)](https://naver-career.github.io/kr/service/clova/speech-recognition)
+  * [음성합성 및 Avatar 생성 기술 연구 ](https://naver-career.github.io/kr/service/clova/ai-ml)
+  * [클로바 Vision/NLP 연구개발](https://naver-career.github.io/kr/service/clova/vision-nlp)
+  * [CLOVA Vision Kit](https://naver-career.github.io/kr/service/clova/clova-vision-kit)
+  * [초대규모 멀티모달&시계열&쇼핑모델링 기술 연구개발](https://naver-career.github.io/kr/service/clova/and-and)
+  * [CLOVA 언어 모델 연구 및 대화시스템 개발 ](https://naver-career.github.io/kr/service/clova/conversation)
   * [HCI x AI](hci-x-ai.md)
   * [AI Assistant Platform 개발](ai-assistant.md)
-  * [AI 경량화 및 최적화](https://naver-career.gitbook.io/kr/service/clova/ai)
+  * [AI 경량화 및 최적화](https://naver-career.github.io/kr/service/clova/ai)
 * BE / FE
-  * [CLOVA AI/ML 기반 서비스 개발](https://naver-career.gitbook.io/kr/service/clova/clova-ai-ml)
+  * [CLOVA AI/ML 기반 서비스 개발](https://naver-career.github.io/kr/service/clova/clova-ai-ml)
   * [AutoML을 이용한 모델 자동 훈련 시스템 개발](automl.md)
   * [HyperCLOVA개발](hyperclova.md)
-  * [Document Intelligence](https://naver-career.gitbook.io/kr/service/clova/document-intelligence)
+  * [Document Intelligence](https://naver-career.github.io/kr/service/clova/document-intelligence)
   * [머신러닝을 위한 대규모 데이터 플랫폼 구축 ](data-platform.md)
-  * [초대규모 AI 모델 학습 / 서빙 시스템 구축 및 운영](https://naver-career.gitbook.io/kr/service/clova/mlops)
-  * [Data AI](https://naver-career.gitbook.io/kr/service/clova/data-ai)
-  * [ML 연구 플랫폼 NSML 개발 ](https://naver-career.gitbook.io/kr/service/clova/nsml)
+  * [초대규모 AI 모델 학습 / 서빙 시스템 구축 및 운영](https://naver-career.github.io/kr/service/clova/mlops)
+  * [Data AI](https://naver-career.github.io/kr/service/clova/data-ai)
+  * [ML 연구 플랫폼 NSML 개발 ](https://naver-career.github.io/kr/service/clova/nsml)
