@@ -71,11 +71,9 @@ Real-time 처리와 대용량 트래픽을 안정적으로 수용하는 플랫�
 
 ## &#x20;e-브로셔에 상세한 내용을 담았어요.      
 
-{% file src="/assets/kr/%EB%84%A4%EC%9D%B4%EB%B2%84_ETECH_%EB%8F%99%EC%98%81%EC%83%81%ED%94%8C%EB%9E%AB%ED%8F%BC_%EB%B8%8C%EB%A1%9C%EC%85%94_%ED%95%9C%EA%B8%80.pdf" %}
-
-{% file src="/assets/kr/%EB%84%A4%EC%9D%B4%EB%B2%84_ETECH_%EC%98%A4%EB%94%94%EC%98%A4%ED%94%8C%EB%9E%AB%ED%8F%BC_%EB%B8%8C%EB%A1%9C%EC%85%94_%ED%95%9C%EA%B8%80.pdf" %}
-
-{% file src="/assets/kr/%EB%84%A4%EC%9D%B4%EB%B2%84_ETECH_%ED%8F%AC%ED%86%A0%ED%94%8C%EB%9E%AB%ED%8F%BC_%EB%B8%8C%EB%A1%9C%EC%85%94_%ED%95%9C%EA%B8%80%20(1).pdf" %}
+* [네이버 ETECH 동영상플랫폼 브로셔 (한글)](/assets/kr/네이버_ETECH_동영상플랫폼_브로셔_한글.pdf)
+* [네이버 ETECH 오디오플랫폼 브로셔 (한글)](/assets/kr/네이버_ETECH_오디오플랫폼_브로셔_한글.pdf)
+* [네이버 ETECH 포토플랫폼 브로셔 (한글)](/assets/kr/네이버_ETECH_포토플랫폼_브로셔_한글 (1).pdf)
 
 ## 함께 성장할 동료분 환영해요. 
 

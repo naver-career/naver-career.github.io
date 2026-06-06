@@ -80,110 +80,104 @@ description: 검색의 Front-end을 담당하는 Search FE의 조직 소개입�
 
 ## **함께 할 분을 모십니다.**
 
-{% tabs %}
-{% tab title="FE System" %}
-### FE System
+=== "FE System"
+    ### FE System
+    
+    #### 입사하게 되면 담당할 업무입니다.
+    
+    * 네이버 검색 서비스 Front-end 개발
+      * 동영상/이미지/뮤직/쇼핑/인플러언서/VIEW/지식iN 등 컬렉션 개발
+      * 스마트렌즈/스마트어라운드 서비스 개발&#x20;
+    * 검색 전반에 대한 성능 개선 및 품질 관리
+    * 네이버 검색 서비스 전반에 필요한 공통 모듈 개발
+    
+    #### 업무를 수행하기 위해 필요한 자격 요건입니다.
+    
+    * HTML, CSS, ES5+, TypeScript 개발 경험
+    * webpack/Babel 도구 설정 및 사용 경험&#x20;
+    * Node.js (SSR) 개발/운영 개발 경험
+    * 협업을 위한 커뮤니케이션과 학습에 대해 열린 자세
+    
+    #### 추가로 보유하고 있다면 좋을 스킬셋이나 경험입니다.
+    
+    * 다양한 사용자 환경 대응을 위한 개발 및 디버깅 역량
+    * React, Vue, Angular 등 Modern Framework 개발 역량
+    * Node.js 또는 Kubernetes 클러스터 운영 경험
+    * 외부 Open Source Contribution 경험
 
-#### 입사하게 되면 담당할 업무입니다.
+=== "FE Application"
+    ### FE Application
+    
+    #### 입사하게 되면 담당할 업무입니다.
+    
+    * [지식베이스](https://naver-career.github.io/kr/service/search/knowledge-base) 데이터를 활용한 다양한 주제의 Front-end 개발을 담당합니다.
+    * Node.js+React 기반의 SSR+CSR(Server Driven UI System) 서버를 개발/운영합니다.
+    * 생산성 향상을 위한 공통 UI/UX 모듈을 개발/운영합니다.
+    
+    #### 업무를 수행하기 위해 필요한 자격 요건입니다.
+    
+    * HTML, CSS, ES5+, TypeScript에 대한 이해와 개발 경험
+    * 다양한 사용자 환경 대응을 위한 개발 및 디버깅 역량 보유
+    * 협업을 위한 커뮤니케이션과 학습에 대해 열린 자세
+    * 자신의 기술과 경험을 잘 나눌 수 있으신 분
+    
+    #### 추가로 보유하고 있다면 좋을 스킬셋이나 경험입니다.
+    
+    * Vue, React, Angular 등 Modern Framework 개발 경험
+    * Node.js 기반의 SSR서버 개발 경험
+    * webpack 과 같은 빌드 도구 설정 및 사용 경험
+    * k8s 기반 서비스 배포/운영 경험
+    * UX/UI 기술에 대한 지속적인 관심
 
-* 네이버 검색 서비스 Front-end 개발
-  * 동영상/이미지/뮤직/쇼핑/인플러언서/VIEW/지식iN 등 컬렉션 개발
-  * 스마트렌즈/스마트어라운드 서비스 개발&#x20;
-* 검색 전반에 대한 성능 개선 및 품질 관리
-* 네이버 검색 서비스 전반에 필요한 공통 모듈 개발
+=== "FE Global"
+    ### FE Global
+    
+    #### 입사하게 되면 담당할 업무입니다.
+    
+    * 라인 검색 서비스 Front-end 개발
+    * 모든 라인 검색 결과 영역을 개발합니다.
+    * 지식베이스 데이터를 활용하여 다양한 주제 개발을 담당합니다.
+    * 라인 검색에 필요한 다양한 모듈을 개발합니다.
+    
+    **업무를 수행하기 위해 필요한 자격 요건입니다.**
+    
+    * Front-end 개발 경험이 있으신 분
+    * ES5+ / TypeScript 개발 경험이 있으신 분
+    * Webpack / Babel / Lint 등을 이용한 개발 환경 구성 및 개발 경험이 있으신 분
+    * 브라우저의 구조 및 동작 원리를 잘 이해하시는 분
+    
+    **추가로 보유하고 있다면 좋을 스킬셋이나 경험입니다.**
+    
+    * Vue, React, Angular 등 framework 개발 경험이 있으신 분
+    * Node.js 등 server-side 개발 경험이 있으신 분
+    * 성능 개선, 자동화, Testing 기술 경험이 있으신 분
+    * 자신의 경험을 잘 나눌 수 있는 개발자
+    * 동료와 협업하면서 업무를 함께 진행할 수 있는 개발자
+    * 자기주도적으로 업무를 진행하시는 분
 
-#### 업무를 수행하기 위해 필요한 자격 요건입니다.
-
-* HTML, CSS, ES5+, TypeScript 개발 경험
-* webpack/Babel 도구 설정 및 사용 경험&#x20;
-* Node.js (SSR) 개발/운영 개발 경험
-* 협업을 위한 커뮤니케이션과 학습에 대해 열린 자세
-
-#### 추가로 보유하고 있다면 좋을 스킬셋이나 경험입니다.
-
-* 다양한 사용자 환경 대응을 위한 개발 및 디버깅 역량
-* React, Vue, Angular 등 Modern Framework 개발 역량
-* Node.js 또는 Kubernetes 클러스터 운영 경험
-* 외부 Open Source Contribution 경험
-{% endtab %}
-
-{% tab title="FE Application" %}
-### FE Application
-
-#### 입사하게 되면 담당할 업무입니다.
-
-* [지식베이스](https://naver-career.github.io/kr/service/search/knowledge-base) 데이터를 활용한 다양한 주제의 Front-end 개발을 담당합니다.
-* Node.js+React 기반의 SSR+CSR(Server Driven UI System) 서버를 개발/운영합니다.
-* 생산성 향상을 위한 공통 UI/UX 모듈을 개발/운영합니다.
-
-#### 업무를 수행하기 위해 필요한 자격 요건입니다.
-
-* HTML, CSS, ES5+, TypeScript에 대한 이해와 개발 경험
-* 다양한 사용자 환경 대응을 위한 개발 및 디버깅 역량 보유
-* 협업을 위한 커뮤니케이션과 학습에 대해 열린 자세
-* 자신의 기술과 경험을 잘 나눌 수 있으신 분
-
-#### 추가로 보유하고 있다면 좋을 스킬셋이나 경험입니다.
-
-* Vue, React, Angular 등 Modern Framework 개발 경험
-* Node.js 기반의 SSR서버 개발 경험
-* webpack 과 같은 빌드 도구 설정 및 사용 경험
-* k8s 기반 서비스 배포/운영 경험
-* UX/UI 기술에 대한 지속적인 관심
-{% endtab %}
-
-{% tab title="FE Global" %}
-### FE Global
-
-#### 입사하게 되면 담당할 업무입니다.
-
-* 라인 검색 서비스 Front-end 개발
-* 모든 라인 검색 결과 영역을 개발합니다.
-* 지식베이스 데이터를 활용하여 다양한 주제 개발을 담당합니다.
-* 라인 검색에 필요한 다양한 모듈을 개발합니다.
-
-**업무를 수행하기 위해 필요한 자격 요건입니다.**
-
-* Front-end 개발 경험이 있으신 분
-* ES5+ / TypeScript 개발 경험이 있으신 분
-* Webpack / Babel / Lint 등을 이용한 개발 환경 구성 및 개발 경험이 있으신 분
-* 브라우저의 구조 및 동작 원리를 잘 이해하시는 분
-
-**추가로 보유하고 있다면 좋을 스킬셋이나 경험입니다.**
-
-* Vue, React, Angular 등 framework 개발 경험이 있으신 분
-* Node.js 등 server-side 개발 경험이 있으신 분
-* 성능 개선, 자동화, Testing 기술 경험이 있으신 분
-* 자신의 경험을 잘 나눌 수 있는 개발자
-* 동료와 협업하면서 업무를 함께 진행할 수 있는 개발자
-* 자기주도적으로 업무를 진행하시는 분
-{% endtab %}
-
-{% tab title="FE Solution" %}
-### FE Solution
-
-#### 입사하게 되면 담당할 업무입니다.
-
-* UI Component 오픈소스인 egjs 라이브러리를 개발합니다.
-* Data 기반의 자동 UI 개발 플랫폼을 개발합니다.
-* A/B Testing Platform의 Portal과 Traffic Assign을 개발합니다.
-* FE 기술 지원을 하며 기술 공유를 합니다.
-
-#### 업무를 수행하기 위해 필요한 자격 요건입니다.
-
-* HTML, CSS, ES5+, TypeScript에 대한 이해와 개발 경험
-* ES5+ / TypeScript 개발 경험이 있으신 분
-* Webpack / Babel / Lint 등을 이용한 개발 환경 구성 및 개발 경험이 있으신 분
-* 브라우저의 구조 및 동작 원리를 잘 이해하시는 분
-* 문제를 해석하고 정의해서 해결할 수 있는 분
-
-#### 추가로 보유하고 있다면 좋을 스킬셋이나 경험입니다.
-
-* Docker/K8S 등 클라우드 개발 경험
-* 새로운 경험의 어색함을 즐기는 분
-* self-motivation을 가능한 분
-{% endtab %}
-{% endtabs %}
+=== "FE Solution"
+    ### FE Solution
+    
+    #### 입사하게 되면 담당할 업무입니다.
+    
+    * UI Component 오픈소스인 egjs 라이브러리를 개발합니다.
+    * Data 기반의 자동 UI 개발 플랫폼을 개발합니다.
+    * A/B Testing Platform의 Portal과 Traffic Assign을 개발합니다.
+    * FE 기술 지원을 하며 기술 공유를 합니다.
+    
+    #### 업무를 수행하기 위해 필요한 자격 요건입니다.
+    
+    * HTML, CSS, ES5+, TypeScript에 대한 이해와 개발 경험
+    * ES5+ / TypeScript 개발 경험이 있으신 분
+    * Webpack / Babel / Lint 등을 이용한 개발 환경 구성 및 개발 경험이 있으신 분
+    * 브라우저의 구조 및 동작 원리를 잘 이해하시는 분
+    * 문제를 해석하고 정의해서 해결할 수 있는 분
+    
+    #### 추가로 보유하고 있다면 좋을 스킬셋이나 경험입니다.
+    
+    * Docker/K8S 등 클라우드 개발 경험
+    * 새로운 경험의 어색함을 즐기는 분
+    * self-motivation을 가능한 분
 
 
 
