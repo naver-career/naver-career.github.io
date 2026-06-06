@@ -8,25 +8,10 @@
 
 ### 주요직무&#x20;
 
-{% content-ref url="meta-store.md" %}
-[meta-store.md](meta-store.md)
-{% endcontent-ref %}
-
-{% content-ref url="open-api.md" %}
-[open-api.md](open-api.md)
-{% endcontent-ref %}
-
-{% content-ref url="party-room.md" %}
-[party-room.md](party-room.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="naver-search.md" %}
-[naver-search.md](naver-search.md)
-{% endcontent-ref %}
+* [META STORE](meta-store.md)
+* [OPEN-API](open-api.md)
+* [PARTY ROOM](party-room.md)
+* [NAVER SEARCH](naver-search.md)
 
 ### 개발환경
 

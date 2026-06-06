@@ -28,41 +28,6 @@ Music Dev는
 
 으로 이루어져  고객들에게 재미있고 즐거운 다양한 기능을 제공하기 위해 열심히 재미있게 개발하고 있습니다.&#x20;
 
-{% content-ref url="music-ios.md" %}
-[music-ios.md](music-ios.md)
-{% endcontent-ref %}
-
-{% content-ref url="music-android.md" %}
-[music-android.md](music-android.md)
-{% endcontent-ref %}
-
-{% content-ref url="music-server.md" %}
-[music-server.md](music-server.md)
-{% endcontent-ref %}
-
-{% content-ref url="music-platform/" %}
-[music-platform](music-platform/)
-{% endcontent-ref %}
-
-{% content-ref url="line-music-ios.md" %}
-[line-music-ios.md](line-music-ios.md)
-{% endcontent-ref %}
-
-{% content-ref url="line-music-android.md" %}
-[line-music-android.md](line-music-android.md)
-{% endcontent-ref %}
-
-{% content-ref url="line-music-server.md" %}
-[line-music-server.md](line-music-server.md)
-{% endcontent-ref %}
-
-{% content-ref url="music-ai.md" %}
-[music-ai.md](music-ai.md)
-{% endcontent-ref %}
-
-{% content-ref url="music-quality-engineering.md" %}
-[music-quality-engineering.md](music-quality-engineering.md)
-{% endcontent-ref %}
 
 ### 서비스 소개 링크
 

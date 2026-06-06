@@ -8,25 +8,11 @@
 
 ### 주요직무&#x20;
 
-{% content-ref url="music-platform/meta-store.md" %}
-[meta-store.md](music-platform/meta-store.md)
-{% endcontent-ref %}
-
-{% content-ref url="music-platform/open-api.md" %}
-[open-api.md](music-platform/open-api.md)
-{% endcontent-ref %}
-
-{% content-ref url="music-platform/party-room.md" %}
-[party-room.md](music-platform/party-room.md)
-{% endcontent-ref %}
-
-{% content-ref url="music-platform/chart.md" %}
-[chart.md](music-platform/chart.md)
-{% endcontent-ref %}
-
-{% content-ref url="music-platform/naver-search.md" %}
-[naver-search.md](music-platform/naver-search.md)
-{% endcontent-ref %}
+* [META STORE](music-platform/meta-store.md)
+* [OPEN-API](music-platform/open-api.md)
+* [PARTY ROOM](music-platform/party-room.md)
+* [CHART](music-platform/chart.md)
+* [NAVER SEARCH](music-platform/naver-search.md)
 
 ### 개발환경
 
