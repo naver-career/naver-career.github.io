@@ -5,7 +5,7 @@ description: >-
 ---
 
 * 현재 진행 중인 채용 공고 : [https://recruit.navercorp.com/](https://recruit.navercorp.com/rcrt/list.do)
-* US R\&D 직무 소개 : <https://naver-career.github.io/>
+* US R&D 직무 소개 : <https://naver-career.github.io/en>
 
 ## 서비스 소개
 
