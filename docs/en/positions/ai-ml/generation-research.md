@@ -1,10 +1,10 @@
 # Generation Research
 
-### Generation Research at NAVER AI Lab&#x20;
+### Generation Research at NAVER AI Lab
 
-We contribute to the global development of AI technology by pushing the boundaries of visual generation and supporting users' creative activities by providing high-quality generations. Furthermore, it enables new business models by leveraging the power of AI generation to create virtual characters, objects, and environments. We welcome strong candidates with diverse research experiences and leadership skills, having publications presented at top-tier venues. Join us on the journey of innovation and excellence!&#x20;
+We contribute to the global development of AI technology by pushing the boundaries of visual generation and supporting users' creative activities through high-quality generation. Furthermore, it enables new business models by leveraging AI-driven generation to create virtual characters, objects, and environments. We welcome strong candidates with diverse research experiences and leadership skills, having publications presented at top-tier venues. Join us on the journey of innovation and excellence!
 
-Our research interests include:&#x20;
+Our research interests include:
 
 * Multimodal generation models
 * Neural 3D representation learning and its applications
@@ -12,20 +12,20 @@ Our research interests include:&#x20;
 
 ### Hiring Research Scientists&#x20;
 
-We are seeking globally competitive research scientists to join our team and work on advancing generation research. As an individual research scientist, you will have the opportunity to lead your own research projects and collaborate on international projects with our associate research centers.&#x20;
+We are seeking globally competitive research scientists to join our team and work on advancing generation research. As an individual research scientist, you will have the opportunity to lead your own research projects and collaborate on international projects with our associate research centers.
 
 #### What you will do:&#x20;
 
-* Research and develop novel methods related to 2D/3D generations&#x20;
-* Publish original papers to top-tier academic venues&#x20;
-* Collaborate with our colleague researchers and mentor interns&#x20;
-* Communicate and collaborate with prominent external researchers&#x20;
+* Research and develop novel methods related to 2D/3D generations
+* Publish original papers to top-tier academic venues
+* Collaborate with our colleague researchers and mentor interns
+* Communicate and collaborate with prominent external researchers
 
 #### Requirements
 
-* Holds a PhD degree or equivalent (or expected to receive within 6 months) in Computer Science (CS), Electrical Engineering (EE), or other relevant fields&#x20;
-* Strong academic publication records at top-tier conferences and journals in Machine Learning and Computer Vision&#x20;
-* Comprehensive experience in research collaborations and academic writing in related fields&#x20;
+* Holds a PhD degree or equivalent (or expected to receive within 6 months) in Computer Science (CS), Electrical Engineering (EE), or other relevant fields
+* Strong academic publication record at top-tier conferences and journals in Machine Learning and Computer Vision
+* Comprehensive experience in research collaborations and academic writing in related fields
 * Excellent communication skills
 
 #### How to Apply
@@ -44,9 +44,9 @@ We are hiring around three research interns per half-year. As an intern, you wil
 
 #### Requirements
 
-* Pursuing a M.S/PhD or equivalent in Computer Science (CS), Electrical Engineering (EE), or other relevant fields
+* Pursuing an M.S/PhD or equivalent in Computer Science (CS), Electrical Engineering (EE), or other relevant fields
 * Experience as an author at top-tier venues
-* Have at least six months before their graduation
+* Have at least six months before graduation
 
 #### How to Apply
 
@@ -87,10 +87,12 @@ NAVER AI Lab employees are distinguished by being displayed in bold text. The eq
 
 #### 2026
 
-1. 🌏 Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis. Junyoung Seo\* (KAIST), Hyunwook Choi\* (KAIST), Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Siyoon Jin (KAIST), **Gayoung Lee (NAVER AI Lab)**, **Junho Kim (NAVER AI Lab)**, JoungBin Lee (KAIST), **Geonmo Gu (NAVER AI Lab)**, **Dongyoon Han (NAVER AI Lab, KAIST AI)**, **Sangdoo Yun (NAVER AI Lab, SNU AIIS)**, Seungryong Kim^ (KAIST), **Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS).** _arXiv 2026_. \[[arXiv](https://arxiv.org/abs/2603.15583)]\[[Project](https://seoul-world-model.github.io/)]\[[HuggingFace](https://huggingface.co/papers/2603.15583)]
-2. CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models. Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Jiho Park (KAIST), Seonghu Jeon (KAIST), Jinhyuk Jang (KAIST), Junyoung Seo (KAIST), Minseop Kwak (KAIST), **Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS)**, Seungryong Kim^ (KAIST). _CVPR 2026_. \[[arXiv](https://arxiv.org/abs/2512.03045)]\[[Project](https://cvlab-kaist.github.io/CAMEO/)]
-3. _🗿_ MoAI: Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation. Min-Seop Kwak (KAIST), **Junho Kim (NAVER AI Lab)**, **Sangdoo Yun (NAVER AI Lab, SNU AIIS)**, **Dongyoon Han (NAVER AI Lab, KAIST AI)**, **Taekyoung Kim (NAVER AI Lab)**, Seungryong Kim^ (KAIST), **Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS)**. _ICLR 2026_. \[[arXiv](https://arxiv.org/abs/2506.11924)]\[[Project](https://cvlab-kaist.github.io/MoAI/)]
-4. MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion. Minjung Shin (Yonsei Univ.), Hyunin Cho (Yonsei Univ.), Sooyeon Go (Yonsei Univ.), **Jin-Hwa Kim (NAVER AI Lab, SNU AIIS)**, Youngjung Uh (Yonsei Univ.). _ICLR 2026_. \[[arXiv](https://arxiv.org/abs/2510.13702)]\[[Project](https://minjung-s.github.io/mvcustom)]
+1. 🌏 Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis. Junyoung Seo\* (KAIST), Hyunwook Choi\* (KAIST), Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Siyoon Jin (KAIST), **Gayoung Lee (NAVER AI Lab)**, **Junho Kim (NAVER AI Lab)**, JoungBin Lee (KAIST), **Geonmo Gu (NAVER AI Lab)**, **Dongyoon Han (NAVER AI Lab, KAIST AI)**, **Sangdoo Yun (NAVER AI Lab, SNU AIIS)**, Seungryong Kim^ (KAIST), **Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS).** _ICML 2026 F2S Workshop Oral_ and _ECCV 2026_. \[[arXiv](https://arxiv.org/abs/2603.15583)]\[[Project](https://seoul-world-model.github.io/)]\[[HuggingFace](https://huggingface.co/papers/2603.15583)]
+2. Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting. Junoh Lee (GIST), Junmyeong Lee (Yonsei Univ.), Yeon-Ji Song (SNU), Inhwan Bae (DGIST), Jisu Shin (GIST), Hae-Gon Jeon^ (Yonsei Univ.), **Jin-Hwa Kim (NAVER AI Lab, SNU AIIS)**. _ECCV 2026_. \[[arXiv](https://arxiv.org/abs/2603.24994)]\[[Project](https://leejunoh.com/R3G/)]
+3. TetraSDF: Precise Mesh Extraction with Multi-resolution Tetrahedral Grid. Seonghun Oh (Yonsei Univ.), Youngjung Uh (Yonsei Univ.), **Jin-Hwa Kim (NAVER AI Lab, SNU AIIS)**. _ECCV 2026_. \[[arXiv](https://arxiv.org/abs/2511.16273)]
+4. CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models. Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Jiho Park (KAIST), Seonghu Jeon (KAIST), Jinhyuk Jang (KAIST), Junyoung Seo (KAIST), Minseop Kwak (KAIST), **Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS)**, Seungryong Kim^ (KAIST). _CVPR 2026_. \[[arXiv](https://arxiv.org/abs/2512.03045)]\[[Project](https://cvlab-kaist.github.io/CAMEO/)]
+5. _🗿_ MoAI: Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation. Min-Seop Kwak (KAIST), **Junho Kim (NAVER AI Lab)**, **Sangdoo Yun (NAVER AI Lab, SNU AIIS)**, **Dongyoon Han (NAVER AI Lab, KAIST AI)**, **Taekyoung Kim (NAVER AI Lab)**, Seungryong Kim^ (KAIST), **Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS)**. _ICLR 2026_. \[[arXiv](https://arxiv.org/abs/2506.11924)]\[[Project](https://cvlab-kaist.github.io/MoAI/)]
+6. MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion. Minjung Shin (Yonsei Univ.), Hyunin Cho (Yonsei Univ.), Sooyeon Go (Yonsei Univ.), **Jin-Hwa Kim (NAVER AI Lab, SNU AIIS)**, Youngjung Uh (Yonsei Univ.). _ICLR 2026_. \[[arXiv](https://arxiv.org/abs/2510.13702)]\[[Project](https://minjung-s.github.io/mvcustom)]
 
 #### 2025
 
