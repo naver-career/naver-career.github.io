@@ -6,30 +6,36 @@ description: Full publication list of NAVER AI Lab
 
 ### **2026**
 
-1. Autiverse: Eliciting Autistic Adolescents' Daily Narratives through AI-guided Multimodal Journaling.<br>
+1. 🌏 Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis.<br>
+   Junyoung Seo* (KAIST), Hyunwook Choi* (KAIST), Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Siyoon Jin (KAIST), Gayoung Lee (NAVER AI Lab), Junho Kim (NAVER AI Lab), JoungBin Lee (KAIST), Geonmo Gu (NAVER AI Lab), Dongyoon Han (NAVER AI Lab, KAIST AI), Sangdoo Yun (NAVER AI Lab, SNU AIIS), Seungryong Kim^ (KAIST), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS). **ECCV 2026**. \[[arXiv](https://arxiv.org/abs/2603.15583)]\[[Project](https://seoul-world-model.github.io/)]\[[HuggingFace](https://huggingface.co/papers/2603.15583)]
+2. Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting.<br> 
+   Junoh Lee (GIST), Junmyeong Lee (Yonsei Univ.), Yeon-Ji Song (SNU), Inhwan Bae (DGIST), Jisu Shin (GIST), Hae-Gon Jeon^ (Yonsei Univ.), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS). **ECCV 2026**. \[[arXiv](https://arxiv.org/abs/2603.24994)]\[[Project](https://leejunoh.com/R3G/)]
+3. TetraSDF: Precise Mesh Extraction with Multi-resolution Tetrahedral Grid.<br>
+   Seonghun Oh (Yonsei Univ.), Youngjung Uh (Yonsei Univ.), Jin-Hwa Kim (NAVER AI Lab, SNU AIIS). **ECCV 2026**. \[[arXiv](https://arxiv.org/abs/2511.16273)]
+4. Autiverse: Eliciting Autistic Adolescents' Daily Narratives through AI-guided Multimodal Journaling.<br>
    Migyeong Yang (NAVER AI Lab), Kyungah Lee, Jinyoung Han (SKKU), SoHyun Park (NAVER Cloud), and Young-Ho Kim (NAVER AI Lab). **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2509.17466)]\[[Project](https://naver-ai.github.io/autiverse/)]\[[Video(English)](https://www.youtube.com/watch?v=4kGJON8Yyxg\&feature=youtu.be)]\[[Video(Korean)](https://www.youtube.com/watch?v=9LWkA2dPi0s)]
-2. LingoQ: Bridging the Gap between EFL Learning and Work through AI-Generated Work-Related Quizzes<br>
+5. LingoQ: Bridging the Gap between EFL Learning and Work through AI-Generated Work-Related Quizzes<br>
    Yeonsun Yang, Sang Won Lee, Jean Y. Song, Sangdoo Yun, and Young-Ho Kim. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2509.17477)]\[[Project](https://naver-ai.github.io/lingo-q/)]\[[Video(English)](https://www.youtube.com/watch?v=sUteJ1wQinM\&feature=youtu.be)]\[[Video(Korean)](https://www.youtube.com/watch?v=c6rGHKAT7Xs)]
-3. "Having Lunch Now": Understanding How Users Engage with a Proactive Agent for Daily Planning and Self-Reflection.<br>
+6. "Having Lunch Now": Understanding How Users Engage with a Proactive Agent for Daily Planning and Self-Reflection.<br>
    Adnan Abbas, Caleb Wohn, Arnav Jagtap, Eugenia H. Rho, Young-Ho Kim, and Sang Won Lee. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2509.24073)]
-4. CHOIR: A Chatbot-mediated Organizational Memory Leveraging Communication in University Research Labs.<br>
+7. CHOIR: A Chatbot-mediated Organizational Memory Leveraging Communication in University Research Labs.<br>
    Sangwook Lee, Adnan Abbas, Yan Chen, Young-Ho Kim, and Sang Won Lee. **ACM CHI 2026 (Honorable Mention Award).** \[[arXiv](https://arxiv.org/abs/2509.20512)]
-5. An Empirical Study to Understand How Students Use ChatGPT for Writing Essays.<br>
+8. An Empirical Study to Understand How Students Use ChatGPT for Writing Essays.<br>
    Andrew Jelson, Daniel Manesh, Alice Jang, Daniel Dunlap, Young-Ho Kim, and Sang Won Lee. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2501.10551)]
-6. "Are we writing an advice column for Spock here?" Understanding Stereotypes in AI Advice for Autistic Users.<br>
+9. "Are we writing an advice column for Spock here?" Understanding Stereotypes in AI Advice for Autistic Users.<br>
    Caleb Wohn, Buse Carik, Xiaohan Ding, Sang Won Lee, Young-Ho Kim, and Eugenia H. Rho. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2601.12690)]
-7. ClearFairy: Capturing Creative Workflows through Decision Structuring, In-Situ Questioning, and Rationale Inference.<br>
+10. ClearFairy: Capturing Creative Workflows through Decision Structuring, In-Situ Questioning, and Rationale Inference.<br>
    Kihoon Son, DaEun Choi, Tae Soo Kim, Young-Ho Kim, Sangdoo Yun, and Juho Kim. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2509.14537)]
-8. Exploring Learners' Expectations and Engagement When Collaborating with Constructively Controversial Peer Agents.<br>
+11. Exploring Learners' Expectations and Engagement When Collaborating with Constructively Controversial Peer Agents.<br>
    Thitaree Tanprasert, Young-Ho Kim, Sidney S. Fels, and Dongwook Yoon. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2601.13479)]
-9. MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model. Geonmo Gu, Byeongho Heo, Jaemyung Yu, Jaehui Hwang, Taekyung Kim, Sangmin Lee, HeeJae Jun, Yoohoon Kang, Sangdoo Yun, Dongyoon Han. **CVPR 2026.**
-10. ChimeraLoRA: Multi-Head LoRA-Guided Synthetic Datasets. Hoyoung Kim, Minwoo Jang, Jabin Koo, Sangdoo Yun, Jungseul Ok. **CVPR 2026.**
-11. Exploring Conditions for Diffusion models in Robotic Control. Heeseong Shin, Byeongho Heo, Dongyoon Han, Seungryong Kim, Taekyung Kim. **CVPR 2026.**
-12. Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models. Hyundong Jin, Dongyoon Han, Eunwoo Kim. **CVPR 2026.**
-13. Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs. Minji Kim\*, Taekyung Kim\*, Bohyung Han. **CVPR 2026.**
-14. CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models. Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Jiho Park (KAIST), Seonghu Jeon (KAIST), Jinhyuk Jang (KAIST), Junyoung Seo (KAIST), Minseop Kwak (KAIST), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS), Seungryong Kim^ (KAIST). **CVPR 2026**. \[[arXiv](https://arxiv.org/abs/2512.03045)]\[[Project](https://cvlab-kaist.github.io/CAMEO/)]
-15. MoAI: Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation. Min-Seop Kwak (KAIST), Junho Kim (NAVER AI Lab), Sangdoo Yun (NAVER AI Lab, SNU AIIS), Dongyoon Han (NAVER AI Lab, KAIST AI), Taekyoung Kim (NAVER AI Lab), Seungryong Kim^ (KAIST), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS). **ICLR 2026**. \[[arXiv](https://arxiv.org/abs/2506.11924)]\[[Project](https://cvlab-kaist.github.io/MoAI/)]
-16. MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion. Minjung Shin (Yonsei Univ.), Hyunin Cho (Yonsei Univ.), Sooyeon Go (Yonsei Univ.), Jin-Hwa Kim (NAVER AI Lab, SNU AIIS), Youngjung Uh (Yonsei Univ.). **ICLR 2026**. \[[arXiv](https://arxiv.org/abs/2510.13702)]\[[Project](https://minjung-s.github.io/mvcustom)]
+12. MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model. Geonmo Gu, Byeongho Heo, Jaemyung Yu, Jaehui Hwang, Taekyung Kim, Sangmin Lee, HeeJae Jun, Yoohoon Kang, Sangdoo Yun, Dongyoon Han. **CVPR 2026.**
+13. ChimeraLoRA: Multi-Head LoRA-Guided Synthetic Datasets. Hoyoung Kim, Minwoo Jang, Jabin Koo, Sangdoo Yun, Jungseul Ok. **CVPR 2026.**
+14. Exploring Conditions for Diffusion models in Robotic Control. Heeseong Shin, Byeongho Heo, Dongyoon Han, Seungryong Kim, Taekyung Kim. **CVPR 2026.**
+15. Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models. Hyundong Jin, Dongyoon Han, Eunwoo Kim. **CVPR 2026.**
+16. Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs. Minji Kim\*, Taekyung Kim\*, Bohyung Han. **CVPR 2026.**
+17. CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models. Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Jiho Park (KAIST), Seonghu Jeon (KAIST), Jinhyuk Jang (KAIST), Junyoung Seo (KAIST), Minseop Kwak (KAIST), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS), Seungryong Kim^ (KAIST). **CVPR 2026**. \[[arXiv](https://arxiv.org/abs/2512.03045)]\[[Project](https://cvlab-kaist.github.io/CAMEO/)]
+18. MoAI: Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation. Min-Seop Kwak (KAIST), Junho Kim (NAVER AI Lab), Sangdoo Yun (NAVER AI Lab, SNU AIIS), Dongyoon Han (NAVER AI Lab, KAIST AI), Taekyoung Kim (NAVER AI Lab), Seungryong Kim^ (KAIST), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS). **ICLR 2026**. \[[arXiv](https://arxiv.org/abs/2506.11924)]\[[Project](https://cvlab-kaist.github.io/MoAI/)]
+19. MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion. Minjung Shin (Yonsei Univ.), Hyunin Cho (Yonsei Univ.), Sooyeon Go (Yonsei Univ.), Jin-Hwa Kim (NAVER AI Lab, SNU AIIS), Youngjung Uh (Yonsei Univ.). **ICLR 2026**. \[[arXiv](https://arxiv.org/abs/2510.13702)]\[[Project](https://minjung-s.github.io/mvcustom)]
 
 ### **2025**
 
