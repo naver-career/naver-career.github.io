@@ -10,11 +10,11 @@ Our research interests include:
 * Neural 3D representation learning and its applications
 * Generative applications tailored for LLMs
 
-### Hiring Research Scientists&#x20;
+### Hiring Research Scientists
 
 We are seeking globally competitive research scientists to join our team and work on advancing generation research. As an individual research scientist, you will have the opportunity to lead your own research projects and collaborate on international projects with our associate research centers.
 
-#### What you will do:&#x20;
+#### What you will do:
 
 * Research and develop novel methods related to 2D/3D generations
 * Publish original papers to top-tier academic venues
@@ -32,7 +32,7 @@ We are seeking globally competitive research scientists to join our team and wor
 
 * Recruitment is temporarily on hold.
 
-### **Hiring Research Interns**&#x20;
+### **Hiring Research Interns**
 
 We are hiring around three research interns per half-year. As an intern, you will participate in a research project aimed at one of the top-tier publication venues. You may also participate in other projects and engage in discussions to broaden your research experience.
 
@@ -87,9 +87,9 @@ NAVER AI Lab employees are distinguished by being displayed in bold text. The eq
 
 #### 2026
 
-1. 🌏 Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis. Junyoung Seo\* (KAIST), Hyunwook Choi\* (KAIST), Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Siyoon Jin (KAIST), **Gayoung Lee (NAVER AI Lab)**, **Junho Kim (NAVER AI Lab)**, JoungBin Lee (KAIST), **Geonmo Gu (NAVER AI Lab)**, **Dongyoon Han (NAVER AI Lab, KAIST AI)**, **Sangdoo Yun (NAVER AI Lab, SNU AIIS)**, Seungryong Kim^ (KAIST), **Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS).** _ICML 2026 F2S Workshop Oral_ and _ECCV 2026_. \[[arXiv](https://arxiv.org/abs/2603.15583)]\[[Project](https://seoul-world-model.github.io/)]\[[HuggingFace](https://huggingface.co/papers/2603.15583)]
-2. Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting. Junoh Lee (GIST), Junmyeong Lee (Yonsei Univ.), Yeon-Ji Song (SNU), Inhwan Bae (DGIST), Jisu Shin (GIST), Hae-Gon Jeon^ (Yonsei Univ.), **Jin-Hwa Kim (NAVER AI Lab, SNU AIIS)**. _ECCV 2026_. \[[arXiv](https://arxiv.org/abs/2603.24994)]\[[Project](https://leejunoh.com/R3G/)]
-3. TetraSDF: Precise Mesh Extraction with Multi-resolution Tetrahedral Grid. Seonghun Oh (Yonsei Univ.), Youngjung Uh (Yonsei Univ.), **Jin-Hwa Kim (NAVER AI Lab, SNU AIIS)**. _ECCV 2026_. \[[arXiv](https://arxiv.org/abs/2511.16273)]
+1. 🌏 Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis. Junyoung Seo\* (KAIST), Hyunwook Choi\* (KAIST), Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Siyoon Jin (KAIST), **Gayoung Lee (NAVER AI Lab)**, **Junho Kim (NAVER AI Lab)**, JoungBin Lee (KAIST), **Geonmo Gu (NAVER AI Lab)**, **Dongyoon Han (NAVER AI Lab, KAIST AI)**, **Sangdoo Yun (NAVER AI Lab, SNU AIIS)**, Seungryong Kim^ (KAIST), **Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS).** _ICML 2026 F2S Workshop Oral_ and _ECCV 2026 Oral_. \[[arXiv](https://arxiv.org/abs/2603.15583)]\[[Project](https://seoul-world-model.github.io/)]\[[HuggingFace](https://huggingface.co/papers/2603.15583)]
+2. TetraSDF: Precise Mesh Extraction with Multi-resolution Tetrahedral Grid. Seonghun Oh (Yonsei Univ.), Youngjung Uh (Yonsei Univ.), **Jin-Hwa Kim (NAVER AI Lab, SNU AIIS)**. _ECCV 2026 Oral_. \[[arXiv](https://arxiv.org/abs/2511.16273)]
+3. Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting. Junoh Lee (GIST), Junmyeong Lee (Yonsei Univ.), Yeon-Ji Song (SNU), Inhwan Bae (DGIST), Jisu Shin (GIST), Hae-Gon Jeon^ (Yonsei Univ.), **Jin-Hwa Kim (NAVER AI Lab, SNU AIIS)**. _ECCV 2026_. \[[arXiv](https://arxiv.org/abs/2603.24994)]\[[Project](https://leejunoh.com/R3G/)]
 4. CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models. Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Jiho Park (KAIST), Seonghu Jeon (KAIST), Jinhyuk Jang (KAIST), Junyoung Seo (KAIST), Minseop Kwak (KAIST), **Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS)**, Seungryong Kim^ (KAIST). _CVPR 2026_. \[[arXiv](https://arxiv.org/abs/2512.03045)]\[[Project](https://cvlab-kaist.github.io/CAMEO/)]
 5. _🗿_ MoAI: Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation. Min-Seop Kwak (KAIST), **Junho Kim (NAVER AI Lab)**, **Sangdoo Yun (NAVER AI Lab, SNU AIIS)**, **Dongyoon Han (NAVER AI Lab, KAIST AI)**, **Taekyoung Kim (NAVER AI Lab)**, Seungryong Kim^ (KAIST), **Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS)**. _ICLR 2026_. \[[arXiv](https://arxiv.org/abs/2506.11924)]\[[Project](https://cvlab-kaist.github.io/MoAI/)]
 6. MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion. Minjung Shin (Yonsei Univ.), Hyunin Cho (Yonsei Univ.), Sooyeon Go (Yonsei Univ.), **Jin-Hwa Kim (NAVER AI Lab, SNU AIIS)**, Youngjung Uh (Yonsei Univ.). _ICLR 2026_. \[[arXiv](https://arxiv.org/abs/2510.13702)]\[[Project](https://minjung-s.github.io/mvcustom)]
@@ -132,8 +132,8 @@ NAVER AI Lab employees are distinguished by being displayed in bold text. The eq
 4. Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding. Gyeongman Kim (KAIST), Hajin Shim (KAIST), **Hyunsu Kim (NAVER AI Lab)**, **Yunjey Choi (NAVER AI Lab)**, **Junho Kim (NAVER AI Lab)**, Eunho Yang (KAIST). _CVPR 2023_.
 5. Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models. Jooyoung Choi (SNU), **Yunjey Choi (NAVER AI Lab)**, **Yunji Kim (NAVER AI Lab)**, **Junho Kim (NAVER AI Lab)**. _CVPR AI4CC Workshop Oral 2023_.
 6. Panoramic Image-to-Image Translation. Soohyun Kim (Korea Univ.), **Junho Kim (NAVER AI Lab)**, **Taekyung Kim (NAVER AI Lab)**, Hwan Heo (Korea Univ.), Seungryong Kim^ (Korea Univ.), **Jiyoung Lee**^ **(NAVER AI Lab)**, **Jin-Hwa Kim**^ **(NAVER AI Lab, SNU AIIS)**. _ArXiv 2023_.
-7. Robust Camera Pose Refinement for Multi-Resolution Hash Encoding. Hwan Heo (Korea Univ.), **Taekyung Kim (NAVER AI Lab)**, **Jiyoung Lee (NAVER AI Lab)**, Jaewon Lee (Korea Univ.), Soohyun Kim (Korea Univ.), Hyunwoo J. Kim^ (Korea Univ.), **Jin-Hwa Kim**^ **(NAVER AI Lab, SNU AIIS)**. _ICML 2023._&#x20;
-8. Rarity Score: A New Metric to Evaluate the Uncommonness of Synthesized Images. Jiyeon Han (KAIST), Hwanil Choi (KAIST), **Yunjey Choi (NAVER AI Lab)**, **Junho Kim (NAVER AI Lab)**, **Jung-Woo Ha (NAVER AI Lab)**, Jaesik Choi (KAIST). _ICLR 2023 Spotlight_.&#x20;
+7. Robust Camera Pose Refinement for Multi-Resolution Hash Encoding. Hwan Heo (Korea Univ.), **Taekyung Kim (NAVER AI Lab)**, **Jiyoung Lee (NAVER AI Lab)**, Jaewon Lee (Korea Univ.), Soohyun Kim (Korea Univ.), Hyunwoo J. Kim^ (Korea Univ.), **Jin-Hwa Kim**^ **(NAVER AI Lab, SNU AIIS)**. _ICML 2023._
+8. Rarity Score: A New Metric to Evaluate the Uncommonness of Synthesized Images. Jiyeon Han (KAIST), Hwanil Choi (KAIST), **Yunjey Choi (NAVER AI Lab)**, **Junho Kim (NAVER AI Lab)**, **Jung-Woo Ha (NAVER AI Lab)**, Jaesik Choi (KAIST). _ICLR 2023 Spotlight_.
 9. Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance. Yoonjeon Kim (KAIST), **Hyunsu Kim (NAVER AI Lab)**, **Junho Kim (NAVER AI Lab)**, **Yunjey Choi (NAVER AI Lab)**, Eunho Yang (KAIST). _ICLR 2023_.
 
 #### 2022
