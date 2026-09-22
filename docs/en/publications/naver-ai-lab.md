@@ -8,7 +8,7 @@ description: Full publication list of NAVER AI Lab
 
 1. 🌏 Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis.<br>
    Junyoung Seo* (KAIST), Hyunwook Choi* (KAIST), Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Siyoon Jin (KAIST), Gayoung Lee (NAVER AI Lab), Junho Kim (NAVER AI Lab), JoungBin Lee (KAIST), Geonmo Gu (NAVER AI Lab), Dongyoon Han (NAVER AI Lab, KAIST AI), Sangdoo Yun (NAVER AI Lab, SNU AIIS), Seungryong Kim^ (KAIST), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS). **ECCV 2026 Oral**. \[[arXiv](https://arxiv.org/abs/2603.15583)]\[[Project](https://seoul-world-model.github.io/)]\[[HuggingFace](https://huggingface.co/papers/2603.15583)]
-2. TetraSDF: Precise Mesh Extraction with Multi-resolution Tetrahedral Grid.<br>
+2. TetraSDF: Analytic Isosurface Extraction with Multi-resolution Tetrahedral Grid.<br>
    Seonghun Oh (Yonsei Univ.), Youngjung Uh (Yonsei Univ.), Jin-Hwa Kim (NAVER AI Lab, SNU AIIS). **ECCV 2026 Oral**. \[[arXiv](https://arxiv.org/abs/2511.16273)]
 3. Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting.<br> 
    Junoh Lee (GIST), Junmyeong Lee (Yonsei Univ.), Yeon-Ji Song (SNU), Inhwan Bae (DGIST), Jisu Shin (GIST), Hae-Gon Jeon^ (Yonsei Univ.), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS). **ECCV 2026**. \[[arXiv](https://arxiv.org/abs/2603.24994)]\[[Project](https://leejunoh.com/R3G/)]
